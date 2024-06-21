@@ -50,12 +50,15 @@ public class Java1 {
         System.out.println(custom.charAt(6));
         System.out.println(custom.indexOf("G"));
 
+
+
         str.trim();
         str.strip();
         str.substring(0,3);
         str.split("-");
 //Adding a comment  dfsdfdf
     }
+
 
     static void conditionalopeators(){
         int a=10;
