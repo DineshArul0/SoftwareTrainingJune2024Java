@@ -7,4 +7,9 @@ public class InheritanceClass {
     protected String protectedString="protectedString";
     String defaultString="defaultString";
 
+
+    void method(){
+        System.out.println("I amd From Inheritance Class");
+    }
+
 }
