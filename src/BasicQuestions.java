@@ -11,6 +11,7 @@ public class BasicQuestions {
         System.out.print("Input a string: ");
        // String input = scanner.nextLine();
        /// middleCharacter(input);
+        //Newly Added
 
         String str = "aeiou12";
         int vowelscount = 0;
