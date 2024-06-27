@@ -13,6 +13,7 @@ public class BasicQuestions {
        /// middleCharacter(input);
         //Newly Added
         //Commented
+        //New Comment
 
         String str = "aeiou12";
         int vowelscount = 0;

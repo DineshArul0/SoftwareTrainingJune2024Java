@@ -29,4 +29,6 @@ public class Problems1_10 {
         }
         System.out.println(sum);
     }
+
+    //System.out.println("");
 }
