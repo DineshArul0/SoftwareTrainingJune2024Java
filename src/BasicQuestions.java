@@ -13,9 +13,10 @@ public class BasicQuestions {
        /// middleCharacter(input);
         //Newly Added
         //Commented
+        //New Comment
+        //added just
 
         String str = "aeiou12";
-        //added a comment
         int vowelscount = 0;
         for (int i = 0; i < str.length(); i++) {
             char ch = Character.toLowerCase(ch = str.charAt(i));
