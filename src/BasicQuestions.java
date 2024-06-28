@@ -14,6 +14,7 @@ public class BasicQuestions {
         //Newly Added
         //Commented
         //New Comment
+        //added just
 
         String str = "aeiou12";
         int vowelscount = 0;
