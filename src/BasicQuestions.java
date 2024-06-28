@@ -17,6 +17,7 @@ public class BasicQuestions {
         //added just
 
         String str = "aeiou12";
+        //added from test
         int vowelscount = 0;
         for (int i = 0; i < str.length(); i++) {
             char ch = Character.toLowerCase(ch = str.charAt(i));
