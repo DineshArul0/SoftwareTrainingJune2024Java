@@ -30,6 +30,7 @@ public class Problems1_10 {
             b=temp;
         }
         System.out.println(sum);
+        //Added comment from master
     }
 
     public void problem3(){
